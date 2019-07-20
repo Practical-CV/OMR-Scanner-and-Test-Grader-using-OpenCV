@@ -1,7 +1,7 @@
 # OMR Scanner and Test Grader using OpenCV
-### Works by detecting the boundary of the document and getting top-down view of it
+### Scans an OMR and Grades the responses
 
-Build a sexy document scanner with minimal effort.
+Awesome OMR Scanner and Grader using just OpenCV and Python
 
 All thanks to Adrian Rosebrock (from [pyimagesearch](https://www.pyimagesearch.com/)) for making
 great tutorials. This project is inspired from his blog: [Bubble sheet multiple choice scanner and test grader using OMR, Python and OpenCV](https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/). I have included the author's code and the one i wrote my self as well.
